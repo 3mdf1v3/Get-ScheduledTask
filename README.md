@@ -1,1 +1,2 @@
-# Get-ScheduledTask.ps1
+# Get-ScheduledTask
+Get active task from root
